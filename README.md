@@ -1,1 +1,1 @@
-# jsxbasics
+# jsxbasic Simple react application for practice
